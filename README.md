@@ -1,6 +1,11 @@
 # Mall-E
 
-Run "npm i" both from Code directory and then from Code/MallE directory to install all the node modules.
+## What is Mall-E?
+Mall-E is a mobile app (iOS and Android) created using React Native that allows users to monitor the crowd density of various malls around Singapore as well as check approximate waiting times for restaurants in Singapore's malls. This app relies on data from various APIs, including Google Places API, BestTime API, and more, to obtain up-to-date crowd density and waiting times information.
+
+
+## Instructions for running the Mall-E app (on a virtual Android device)
+Run "npm i" both from root directory and then from MallE directory to install all the node modules.
 
 To run the project on an Android Virtual Device or on real debugging device:
 IF YOU ARE USING REACT CLI:
